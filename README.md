@@ -20,7 +20,7 @@
 
 [Ссылка в Google Drive на таблицу с результатами по лабораторным работам](https://docs.google.com/spreadsheets/d/1UPK6LZmWMhn86b5N76UAM5FdmBgmhh05rP_DREzAkVc/edit?usp=sharing)
 
-[Задания лабораторных тут](https://ssauru-my.sharepoint.com/:f:/g/personal/yakimov_pyu_ssau_ru/EupFT8y4noVAniSoZAdADkEBnOIJqw7byyoTCX1H9lagxQ?e=QHhoPf).
+[Задания лабораторных тут](https://drive.google.com/drive/folders/1u9rVHsSkzNE3DWfA2_4V9ayKGxMCMai-?usp=sharing).
 
 # Сценарий проведения зачета
 
