@@ -14,7 +14,7 @@
 # Лекции
 
 Здесь [будут] представлены слайды для презентаций, которые демонстрировались во время лекций:
-- Lecture 1 (17.09.2024, 13:30): Introduction to CUDA (Part 1) 
+- Lecture 1 (17.09.2024, 13:30): Introduction to CUDA (Part 1) [запись](https://bbb.ssau.ru:8443/playback/presentation/2.3/5e87918ed2ea6a7000cee0106f2ee48053a3efcb-1726565207850)
 
 # Лабораторные работы
 
