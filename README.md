@@ -15,6 +15,13 @@
 
 Здесь [будут] представлены слайды для презентаций, которые демонстрировались во время лекций:
 - Lecture 1 (17.09.2024, 13:30): Introduction to CUDA (Part 1) [запись](https://bbb.ssau.ru:8443/playback/presentation/2.3/5e87918ed2ea6a7000cee0106f2ee48053a3efcb-1726565207850)
+- Lecture 2 (01.10.2024, 13:30): Introduction to CUDA (Part 2) [запись](https://bbb.ssau.ru:8443/playback/presentation/2.3/5e87918ed2ea6a7000cee0106f2ee48053a3efcb-1727774899290)
+- Lecture 3 (15.10.2024, 13:30): Introduction to CUDA (Part 3) + CUDA Memory [ссылка на подключение](https://bbb.ssau.ru/b/96r-mf3-or7-9x7)
+- Lecture 4 (29.10.2024, 13:30): GPU libraries [ссылка на подключение](https://bbb.ssau.ru/b/96r-mf3-or7-9x7)
+- Lecture 5 (12.11.2024, 13:30): Thrust [ссылка на подключение](https://bbb.ssau.ru/b/96r-mf3-or7-9x7)
+- Lecture 6 (26.11.2024, 13:30): Multi-GPU [ссылка на подключение](https://bbb.ssau.ru/b/96r-mf3-or7-9x7)
+- Lecture 7 (10.12.2024, 13:30): CUDA Profiling [ссылка на подключение](https://bbb.ssau.ru/b/96r-mf3-or7-9x7)
+- Lecture 8 (24.12.2024, 13:30): CUDA Optimization [ссылка на подключение](https://bbb.ssau.ru/b/96r-mf3-or7-9x7)
 
 # Лабораторные работы
 
